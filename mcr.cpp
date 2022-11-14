@@ -13,6 +13,8 @@ bool isWin(char game[3][3]) {
   return win;
 }
 
+// add a new line
+
 int main() {
   int i, j;
   char game[3][3] = {
